@@ -25,6 +25,20 @@ They don't tell you *why* it's red, whether neighbours are at risk, what happens
 | 📈 **WHAT** will happen in the next 14 days? | ARIMA / Prophet forecasting |
 | 🧠 **WHY** is this country high risk? | SHAP explainability in biological language |
 
+EpiIQ-Sentinel/
+│
+├── app.py
+├── ingest.py
+├── preprocess.py
+├── outbreak.py
+├── spatial.py
+├── structural.py
+├── forecast.py
+├── risk.py
+│
+├── requirements.txt
+├── README.md
+
 
 ##  Architecture
 
