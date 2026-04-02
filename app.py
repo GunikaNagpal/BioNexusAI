@@ -5,6 +5,12 @@ import plotly.graph_objects as go
 import plotly.express as px
 from pathlib import Path
 
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+sys.path.append(str(ROOT / "src"))
+
 from forecast import forecast_cases
 from risk import classify_risk, get_alert, get_risk_drivers, RISK_TIERS
 from spatial import compute_mobility_rt_correlation, detect_hotspots
