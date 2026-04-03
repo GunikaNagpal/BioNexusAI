@@ -17,6 +17,12 @@ Most epidemic dashboards show you a number like cases, deaths, a map coloured by
 
 They don't tell you *why* it's red, whether neighbours are at risk, what happens if vaccination drops, or where the outbreak will be in two weeks.
 
+
+EpiIQ Sentinel is an AI-powered epidemic intelligence system that transforms raw epidemiological data into actionable early-warning insights.
+
+Unlike traditional dashboards that only display case counts or static maps, EpiIQ Sentinel focuses on prediction, interpretation, and decision support.
+
+
 **EpiIQ Sentinel** answers the four questions that actually matter to public health decision-makers:
 
 
