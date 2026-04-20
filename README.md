@@ -4,7 +4,6 @@ AI-Powered Spatio-Temporal Epidemic Intelligence System | CodeCure Hackathon | I
 
 > **AI-Powered Spatio-Temporal Epidemic Intelligence & Early Warning System**
 
-
 **Team BioNexusAI** · CodeCure AI Hackathon · SPIRIT'26 · IIT BHU Varanasi
 **Track C:** Epidemic Spread Prediction (Epidemiology + AI)
 
